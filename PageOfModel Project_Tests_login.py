@@ -1,8 +1,8 @@
 from selenium import webdriver
 import time
 import unittest
-from PageOfModel Project.Pages.Loginpage.py import LoginPage
-from PageOfModel Project.Pages.HomePage.py import Homepage
+from PageOfModel_Project.Pages.Loginpage.py import LoginPage
+from PageOfModel_Project.Pages.HomePage.py import Homepage
 
 
 class logintest(unittest.TestCase):
